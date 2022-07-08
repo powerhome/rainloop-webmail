@@ -106,7 +106,7 @@
     "knockout-sortable": "1.2.0",
     "lozad": "1.14.0",
     "matchmedia-polyfill": "0.3.2",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "node-fs": "0.1.7",
     "normalize.css": "8.0.1",
     "openpgp": "2.6.2",
